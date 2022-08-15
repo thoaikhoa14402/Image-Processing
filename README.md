@@ -1,5 +1,5 @@
 #Image-Processing
-Perform some basic processing functions:
+perform some basic processing functions:
 1. Change the brightness.
 2. Change the contrast.
 3. Flip the image (horizontally / vertically)
