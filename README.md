@@ -48,3 +48,18 @@ Tham khảo tại [đây](https://en.wikipedia.org/wiki/Kernel_(image_processing
     - Đầu vào: `cat.png`
     - Chức năng: Làm mờ
     - Đầu ra: `cat_blur.png`
+
+
+
+#### Nâng cao
+
+Sinh viên thực cắt nội dung ảnh theo khung được áp lên, với khung là hình như hình tròn và 2 hình ellip chéo nhau như các ảnh sau:
+
+- Khung là hình tròn
+
+![img](https://i.imgur.com/dH6OV4d.png)
+
+- Khung là 2 hình ellip chéo nhau
+
+![img](https://i.imgur.com/fPlYioC.png)
+
