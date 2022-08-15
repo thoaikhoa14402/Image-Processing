@@ -8,7 +8,8 @@ perform some basic processing functions:
 6. Blur an image.
 7. Crop an image into Circle.
 8. Crop an image into Ellipse.
-Nhắc lại: Trong đồ án 1, bạn đã được giới thiệu rằng ảnh được lưu trữ dưới dạng ma trận các điểm ảnh. Mỗi điểm ảnh có thể là một giá trị (ảnh xám) hoặc một vector (ảnh màu).
+-------------------------------------------------------
+Nhắc lại: Mỗi điểm ảnh có thể là một giá trị (ảnh xám) hoặc một vector (ảnh màu).
 
 Trong đồ án này, bạn được yêu cầu thực hiện các chức năng xử lý ảnh cơ bản sau:
     
